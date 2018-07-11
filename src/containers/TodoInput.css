@@ -1,0 +1,11 @@
+.todoInput {
+
+}
+
+.todoInput__input {
+    text-align: center;
+}
+
+.todoInput__button {
+    margin-top: 7px;
+}
